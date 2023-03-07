@@ -14,8 +14,3 @@ Desarrollar un servidor que sirva los archivos para el "Proyecto de dashboard de
     * Servir información de una base de datos. 
 * Tiempo : 1 reunión
 
-
-
-
-***Conclusión***
-
